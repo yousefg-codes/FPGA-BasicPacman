@@ -1,0 +1,6 @@
+for every rectangle
+    start at the top left point
+    draw each point until the top left point
+    draw each point until the bottom left point
+    draw each point until the bottom right point
+    draw each point until the top left point
